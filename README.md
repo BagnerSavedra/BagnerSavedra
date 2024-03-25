@@ -23,4 +23,5 @@ Hacer el cierre de la presentación, invitando a contactar...
 -coaching
 -player
 
-
+## Lenguages 
+-Frances, ingles, italiano, chino mandarin.
