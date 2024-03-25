@@ -9,3 +9,9 @@ Hacer el cierre de la presentación, invitando a contactar...
 
 -Dancing
 -Listening
+
+## Skills
+
+-coaching
+-player
+
